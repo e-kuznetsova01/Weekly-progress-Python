@@ -1,4 +1,4 @@
-# Weekly-progress
+# Weekly-progress-Python
 Here I will share what I’ve managed to learn over the course of the week.
 Здесь я буду рассказывать о том, что успела освоить за неделю. 
 
